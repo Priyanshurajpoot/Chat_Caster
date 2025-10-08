@@ -1,0 +1,12 @@
+PyQt5==5.15.9
+torch>=2.0.0
+transformers>=4.30.0
+tqdm>=4.65.0
+
+
+
+# Optional: For GPU support
+# Install CUDA-enabled PyTorch from: https://pytorch.org/get-started/locally/
+
+# For building executable
+pyinstaller>=5.10.0
