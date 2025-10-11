@@ -28,7 +28,7 @@ A desktop application that trains a custom AI chatbot on your WhatsApp chat hist
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/chat-caster.git
+git clone https://github.com/Priyanshurajpoot/Chat_Caster.git
 cd chat-caster
 ```
 
