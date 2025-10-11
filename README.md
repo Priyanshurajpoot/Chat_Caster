@@ -1,5 +1,6 @@
-![CHAT CASTER
-](<Chat caster .png>)
+CHAT CASTER
+<img width="400" height="400" alt="Chat caster " src="https://github.com/user-attachments/assets/34eaa0ab-f0e7-4090-885d-9041cdb84ff7" />
+
 
 A desktop application that trains a custom AI chatbot on your WhatsApp chat history using GPT-2. Built with PyQt5 and PyTorch, Chat Caster allows you to create a personalized AI that mimics conversation patterns from your exported WhatsApp chats.
 
