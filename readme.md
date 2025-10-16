@@ -1,4 +1,4 @@
-# Chat Caster - Personalized AI Chatbot Trainer
+# Chat Caster 
 
 <center><img width="200" height="200" alt="Chat Caster" src="https://github.com/user-attachments/assets/34eaa0ab-f0e7-4090-885d-9041cdb84ff7" /></center>
 
@@ -16,7 +16,7 @@
 **Priyanshu Rajpoot**  
 *MCA Post Graduate | Python Developer | Prompt Engineer | AI Enthusiast*
 
-- 🔗 **LinkedIn**: [priyanshux5](https://linkedin.com/in/priyanshux5)
+- 🔗 **LinkedIn**: [priyanshux5](https://linkedin.com/in/priyanshu-rajpoot-199503256)
 - 💻 **GitHub**: [Priyanshurajpoot](https://github.com/Priyanshurajpoot)
 - 📧 **Email**: priyanshux5xraj@gmail.com
 
@@ -368,7 +368,7 @@ SOFTWARE.
 - **🐛 Report Issues**: [GitHub Issues](https://github.com/Priyanshurajpoot/Chat_Caster/issues)
 - **🚀 Downloads**: [GitHub Releases](https://github.com/Priyanshurajpoot/Chat_Caster/releases)
 - **📧 Email**: priyanshux5xraj@gmail.com
-- **👨‍💻 Developer**: [Priyanshu Rajpoot](https://linkedin.com/in/priyanshux5)
+- **👨‍💻 Developer**: [Priyanshu Rajpoot](https://linkedin.com/in/priyanshu-rajpoot-199503256)
 
 ---
 
@@ -393,15 +393,12 @@ SOFTWARE.
 - **📂 Repository**: [Chat Caster on GitHub](https://github.com/Priyanshurajpoot/Chat_Caster.git)
 - **🚀 Releases**: [Latest Releases](https://github.com/Priyanshurajpoot/Chat_Caster/releases)
 - **🐛 Issues**: [Report Issues](https://github.com/Priyanshurajpoot/Chat_Caster/issues)
-- **👨‍💻 Developer**: [Priyanshu Rajpoot](https://linkedin.com/in/priyanshux5)
-
----
-
-**Python Developer | Prompt Engineer | AI Enthusiast**  
-*Creating intelligent applications that learn from your conversations*
+- **👨‍💻 Developer**: [Priyanshu Rajpoot](https://linkedin.com/in/priyanshu-rajpoot-199503256)
 
 ---
 
 ## AUTHOR
 **Priyanshu Rajpoot**  
-*MCA Post Graduate | AI Developer | Python Specialist*
+**Python Developer | Prompt Engineer | AI Enthusiast**  
+*Creating intelligent applications that learn from your conversations*
+
